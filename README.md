@@ -9,5 +9,3 @@ The project requires installation of PyOpenGL through local whl files for window
 - PyOpenGL
 - NumPy
 - ctypes
-
-### End
